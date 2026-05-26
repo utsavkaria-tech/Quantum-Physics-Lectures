@@ -2,7 +2,7 @@
 # Public Understanding of Quantum Science and Technology
 
 ## Overview
-This repository documents my lecture on quantum science and quantum information theory, delivered as part of a public scientific seminar. The lecture explored both conceptual and mathematical foundations of quantum mechanics.
+This repository documents my lecture on quantum science and quantum information theory, delivered as part of a public scientific conference conducted by GUJCOST (Gujarat Council of Science and Technology). The lecture explored both conceptual and mathematical foundations of quantum mechanics. The lectures were also taken at Lok Vigyan Kendra, Rajkot, Gujarat. 
 
 ## Topics Covered
 
@@ -65,5 +65,5 @@ Quantum mechanics is simultaneously one of the most successful and most counteri
 * Quantum machine learning
 
 ---
-**Author:** Utsav  
+**Author:** Utsav Karia 
 *Interested in Quantum Error Correcetion, Quantum Information Theory, Quantum Computing, Decoherence, Open Quantum Systems, Quantum Biology, and Mathematical Physics.*
