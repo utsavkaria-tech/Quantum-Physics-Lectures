@@ -50,7 +50,7 @@ $$\dot{\rho}=-\frac{i}{\hbar}[H,\rho]+\sum_{k}\left(L_{k}\rho L_{k}^{\dagger}-\f
 | Folder | Description |
 | :--- | :--- |
 | `slides/` | Lecture slides (PDF + PPTX) |
-| `notes/` | Supporting notes and explanations |
+| `videos/` | Lecture recordings |
 | `images/` | Figures and diagrams |
 | `references/` | Research papers and books |
 
